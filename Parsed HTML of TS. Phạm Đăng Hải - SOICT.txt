@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="vi" class="ie9 loading-site no-js"> <![endif]-->
+<!--[if IE 8 ]> <html lang="vi" class="ie8 loading-site no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="loading-site no-js" lang="vi">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="https://soict.hust.edu.vn/xmlrpc.php" rel="pingback"/>
+  <script>
+   (function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+  </script>
+  <title>
+   TS. Phạm Đăng Hải - SOICT
+  </title>
+  <!-- This site is optimized with the SEO Tool Premium plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+  <link href="https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" rel="canonical"/>
+  <meta content="vi_VN" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="TS. Phạm Đăng Hải - SOICT" property="og:title"/>
+  <meta content="https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" property="og:url"/>
+  <meta content="SOICT" property="og:site_name"/>
+  <meta content="https://soict.hust.edu.vn/content/uploads/2017/03/000399.jpg" property="og:image"/>
+  <meta content="https://soict.hust.edu.vn/content/uploads/2017/03/000399.jpg" property="og:image:secure_url"/>
+  <meta content="450" property="og:image:width"/>
+  <meta content="674" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="TS. Phạm Đăng Hải - SOICT" name="twitter:title"/>
+  <meta content="https://soict.hust.edu.vn/content/uploads/2017/03/000399.jpg" name="twitter:image"/>
+  <script class="yoast-schema-graph yoast-schema-graph--main" type="application/ld+json">
+   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://soict.hust.edu.vn/#organization","name":"SoICT | Vi\u1ec7n C\u00f4ng ngh\u1ec7 th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng","url":"https://soict.hust.edu.vn/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://soict.hust.edu.vn/#logo","url":"https://soict.hust.edu.vn/content/uploads/news_logo_soict_25_years.png","width":250,"height":100,"caption":"SoICT | Vi\u1ec7n C\u00f4ng ngh\u1ec7 th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng"},"image":{"@id":"https://soict.hust.edu.vn/#logo"}},{"@type":"WebSite","@id":"https://soict.hust.edu.vn/#website","url":"https://soict.hust.edu.vn/","name":"SOICT","publisher":{"@id":"https://soict.hust.edu.vn/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://soict.hust.edu.vn/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html#primaryimage","url":"https://soict.hust.edu.vn/content/uploads/2017/03/000399.jpg","width":450,"height":674},{"@type":"WebPage","@id":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html#webpage","url":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html","inLanguage":"vi","name":"TS. Ph\u1ea1m \u0110\u0103ng H\u1ea3i - SOICT","isPartOf":{"@id":"https://soict.hust.edu.vn/#website"},"primaryImageOfPage":{"@id":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html#primaryimage"},"datePublished":"2017-03-10T21:23:05+00:00","dateModified":"2020-06-23T02:47:31+00:00","breadcrumb":{"@id":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://soict.hust.edu.vn/","url":"https://soict.hust.edu.vn/","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://soict.hust.edu.vn/can-bo","url":"https://soict.hust.edu.vn/can-bo","name":"C\u00e1n b\u1ed9"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html","url":"https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html","name":"TS. Ph\u1ea1m \u0110\u0103ng H\u1ea3i"}}]}]}
+  </script>
+  <!-- / SEO Tool Premium plugin. -->
+  <link href="//platform-api.sharethis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://soict.hust.edu.vn/feed" rel="alternate" title="Dòng thông tin SOICT »" type="application/rss+xml"/>
+  <link href="https://soict.hust.edu.vn/comments/feed" rel="alternate" title="Dòng phản hồi SOICT »" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/soict.hust.edu.vn\/libs\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="https://soict.hust.edu.vn/libs/css/dist/block-library/style.min.css?ver=5.1.1" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://soict.hust.edu.vn/content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://soict.hust.edu.vn/content/themes/core-theme/assets/css/fl-icons.css?ver=3.3" id="flatsome-icons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://soict.hust.edu.vn/content/themes/core-theme/assets/css/flatsome.css?ver=3.8.3" id="flatsome-main-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://soict.hust.edu.vn/content/themes/soict/style.css?ver=3.0" id="flatsome-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://soict.hust.edu.vn/libs/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="https://soict.hust.edu.vn/libs/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="//platform-api.sharethis.com/js/sharethis.js#product=ga" type="text/javascript">
+  </script>
+  <link href="https://soict.hust.edu.vn/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://soict.hust.edu.vn/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://soict.hust.edu.vn/libs/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="https://soict.hust.edu.vn/?p=6665" rel="shortlink"/>
+  <link href="https://soict.hust.edu.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsoict.hust.edu.vn%2Fcan-bo%2Fts-pham-dang-hai.html" rel="alternate" type="application/json+oembed"/>
+  <link href="https://soict.hust.edu.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsoict.hust.edu.vn%2Fcan-bo%2Fts-pham-dang-hai.html&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <style>
+   .bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}
+  </style>
+  <!--[if IE]><link rel="stylesheet" type="text/css" href="https://soict.hust.edu.vn/content/themes/core-theme/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://soict.hust.edu.vn/content/themes/core-theme/assets/libs/ie-flexibility.js"></script><![endif]-->
+  <script type="text/javascript">
+   WebFontConfig = {
+      google: { families: [ "Roboto:regular,regular","Roboto:regular,regular","Roboto:regular,regular","Dancing+Script:regular,400", ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+  <meta content="lpSvS2om85_DqFe7xgBMV-TvBFbuNGWvXNWeLtncZjM" name="google-site-verification"/>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-61015519-9">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-61015519-9');
+  </script>
+  <link href="https://soict.hust.edu.vn/content/uploads/2019/04/soict-favicon.png" rel="icon" sizes="32x32"/>
+  <link href="https://soict.hust.edu.vn/content/uploads/2019/04/soict-favicon.png" rel="icon" sizes="192x192"/>
+  <link href="https://soict.hust.edu.vn/content/uploads/2019/04/soict-favicon.png" rel="apple-touch-icon-precomposed"/>
+  <meta content="https://soict.hust.edu.vn/content/uploads/2019/04/soict-favicon.png" name="msapplication-TileImage"/>
+  <style id="custom-css" type="text/css">
+   :root {--primary-color: #283891;}html{background-color:#f7f7f7!important;}.full-width .ubermenu-nav, .container, .row{max-width: 1260px}.row.row-collapse{max-width: 1230px}.row.row-small{max-width: 1252.5px}.row.row-large{max-width: 1290px}body.framed, body.framed header, body.framed .header-wrapper, body.boxed, body.boxed header, body.boxed .header-wrapper, body.boxed .is-sticky-section{ max-width: 1920px}.header-main{height: 100px}#logo img{max-height: 100px}#logo{width:226px;}#logo img{padding:5px 0;}.header-bottom{min-height: 46px}.header-top{min-height: 30px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 150px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bottom {background-color: #363636}.stuck .header-main .nav > li > a{line-height: 50px }.header-bottom-nav > li > a{line-height: 18px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.nav-dropdown-has-arrow li.has-dropdown:before{border-bottom-color: #ffffff;}.nav .nav-dropdown{border-color: #ffffff }.nav-dropdown{font-size:100%}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #283891;}/* Color !important */[data-text-color="primary"]{color: #283891!important;}/* Background Color */[data-text-bg="primary"]{background-color: #283891;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #283891;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #283891}.nav-tabs > li.active > a{border-top-color: #283891}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #283891 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #283891 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #283891;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family:"Roboto", sans-serif}body{font-weight: 0}body{color: #0a0a0a}.nav > li > a {font-family:"Roboto", sans-serif;}.nav > li > a {font-weight: 0;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Roboto", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 0;}h1,h2,h3,h4,h5,h6,.heading-font{color: #0a0909;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font{font-weight: 400!important;}a{color: #0a0a0a;}.footer-2{background-color: rgba(54,54,54,0.77)}.absolute-footer, html{background-color: #353535}/* Custom CSS */ul.text-xsa li {list-style: none;margin-left: 0;}.embed-responsive {position: relative;display: block;width: 100%;padding: 0;overflow: hidden;}.embed-responsive .embed-responsive-item {position: absolute;top: 0;bottom: 0;left: 0;width: 100%;height: 100%;border: 0;}.embed-responsive-9by16::before {padding-top: 149.5%;}.embed-responsive::before {display: block;content: "";}.breadcrumbs span {display: inline-block;}img.tet {position: fixed;right: -10px;top: 30px;width: 500px;max-width: 50%;z-index: 9999;pointer-events: none;transform: rotateY(180deg);-webkit-transform: rotateY(180deg);-moz-transform: rotateY(180deg);-ms-transform: rotateY(180deg);-o-transform: rotateY(180deg);}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}
+  </style>
+ </head>
+ <body class="can-bo-template-default single single-can-bo postid-6665 boxed lightbox">
+  <div id="fb-root">
+  </div>
+  <script async="" crossorigin="anonymous" defer="" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&amp;version=v3.3&amp;appId=1990308577903441&amp;autoLogAppEvents=1">
+  </script>
+  <a class="skip-link screen-reader-text" href="#main">
+   Skip to content
+  </a>
+  <div id="wrapper">
+   <header class="header has-sticky sticky-jump" id="header">
+    <div class="header-wrapper">
+     <div class="header-main hide-for-sticky" id="masthead">
+      <div class="header-inner flex-row container logo-left" role="navigation">
+       <!-- Logo -->
+       <div class="flex-col logo" id="logo">
+        <!-- Header logo -->
+        <a href="https://soict.hust.edu.vn/" rel="home" title="SOICT - Viện Công nghệ Thông tin &amp; Truyền thông">
+         <img alt="SOICT" class="header_logo header-logo" height="100" src="https://soict.hust.edu.vn/content/uploads/Logo-25-nam-hust.png" width="226"/>
+         <img alt="SOICT" class="header-logo-dark" height="100" src="https://soict.hust.edu.vn/content/uploads/Logo-25-nam-hust.png" width="226"/>
+        </a>
+       </div>
+       <!-- Mobile Left Elements -->
+       <div class="flex-col show-for-medium flex-left">
+        <ul class="mobile-nav nav nav-left">
+         <li class="html custom html_topbar_left">
+          <strong class="uppercase tt-2">
+           Đại học Bách khoa hà nội
+          </strong>
+          <br/>
+          <strong class="uppercase tt-1 hide-for-medium">
+           VIỆN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+          </strong>
+          <strong class="uppercase tt-1 show-for-medium">
+           VIỆN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+          </strong>
+         </li>
+        </ul>
+       </div>
+       <!-- Left Elements -->
+       <div class="flex-col hide-for-medium flex-left flex-grow">
+        <ul class="header-nav header-nav-main nav nav-left nav-uppercase">
+         <li class="html custom html_topbar_left">
+          <strong class="uppercase tt-2">
+           Đại học Bách khoa hà nội
+          </strong>
+          <br/>
+          <strong class="uppercase tt-1 hide-for-medium">
+           VIỆN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+          </strong>
+          <strong class="uppercase tt-1 show-for-medium">
+           VIỆN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+          </strong>
+         </li>
+        </ul>
+       </div>
+       <!-- Right Elements -->
+       <div class="flex-col hide-for-medium flex-right">
+        <ul class="header-nav header-nav-main nav nav-right nav-uppercase">
+         <li class="header-search-form search-form html relative has-icon">
+          <div class="header-search-form-wrapper">
+           <div class="searchform-wrapper ux-search-box relative form-flat is-normal">
+            <form action="https://soict.hust.edu.vn/" class="searchform" method="get" role="search">
+             <div class="flex-row relative">
+              <div class="flex-col flex-grow">
+               <input class="search-field mb-0" id="s" name="s" placeholder="Tìm kiếm…" type="search" value=""/>
+              </div>
+              <!-- .flex-col -->
+              <div class="flex-col">
+               <button class="ux-search-submit submit-button secondary button icon mb-0" type="submit">
+                <i class="icon-search">
+                </i>
+               </button>
+              </div>
+              <!-- .flex-col -->
+             </div>
+             <!-- .flex-row -->
+             <div class="live-search-results text-left z-top">
+             </div>
+            </form>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <!-- Mobile Right Elements -->
+       <div class="flex-col show-for-medium flex-right">
+        <ul class="mobile-nav nav nav-right">
+         <li class="nav-icon has-icon">
+          <a aria-controls="main-menu" aria-expanded="false" class="is-small" data-bg="main-menu-overlay" data-color="" data-open="#main-menu" data-pos="left" href="#">
+           <i class="icon-menu">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- .header-inner -->
+      <!-- Header divider -->
+      <div class="container">
+       <div class="top-divider full-width">
+       </div>
+      </div>
+     </div>
+     <!-- .header-main -->
+     <div class="header-bottom wide-nav hide-for-medium" id="wide-nav">
+      <div class="flex-row container">
+       <div class="flex-col hide-for-medium flex-left">
+        <ul class="nav header-nav header-bottom-nav nav-left nav-size-medium nav-spacing-medium">
+         <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13897 has-dropdown" id="menu-item-13897">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/gioi-thieu">
+           Giới thiệu
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13898" id="menu-item-13898">
+            <a href="https://soict.hust.edu.vn/gioi-thieu">
+             Thông tin chung
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13849" id="menu-item-13849">
+            <a href="https://soict.hust.edu.vn/gioi-thieu/co-cau-to-chuc.html">
+             Cơ cấu Tổ chức
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15075" id="menu-item-15075">
+            <a href="https://soict.hust.edu.vn/gioi-thieu/dang-uy-vien.html">
+             Đảng ủy – Hội đồng Viện
+            </a>
+           </li>
+           <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15550 nav-dropdown-col" id="menu-item-15550">
+            <a href="https://soict.hust.edu.vn/gioi-thieu/ban-lanh-dao-vien">
+             Ban Lãnh đạo Viện
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15243" id="menu-item-15243">
+              <a href="https://soict.hust.edu.vn/gioi-thieu/ban-lanh-dao-vien-hien-tai.html">
+               Ban Lãnh đạo Viện hiện tại
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15244" id="menu-item-15244">
+              <a href="https://soict.hust.edu.vn/gioi-thieu/ban-lanh-dao-vien-qua-cac-thoi-ky.html">
+               Ban Lãnh đạo Viện qua các thời kỳ
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15078" id="menu-item-15078">
+            <a href="https://soict.hust.edu.vn/gioi-thieu/cong-doan-vien.html">
+             Các Tổ chức Đoàn thể
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15073" id="menu-item-15073">
+            <a href="https://soict.hust.edu.vn/gioi-thieu/van-phong-vien.html">
+             Văn phòng Viện
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15457" id="menu-item-15457">
+            <a href="/can-bo">
+             Danh sách Cán bộ
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13596 has-dropdown" id="menu-item-13596">
+          <a class="nav-top-link" href="#">
+           Bộ môn–Trung tâm
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13919 nav-dropdown-col" id="menu-item-13919">
+            <a href="#">
+             Bộ môn
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13921" id="menu-item-13921">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/cong-nghe-phan-mem">
+               Công nghệ Phần mềm
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13923" id="menu-item-13923">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/he-thong-thong-tin">
+               Hệ thống Thông tin
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13924" id="menu-item-13924">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/khoa-hoc-may-tinh">
+               Khoa học Máy tính
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13925" id="menu-item-13925">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/ky-thuat-may-tinh">
+               Kỹ thuật Máy tính
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13926" id="menu-item-13926">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/truyen-thong-va-mang-may-tinh">
+               Truyền thông và Mạng Máy tính
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13920 nav-dropdown-col" id="menu-item-13920">
+            <a href="#">
+             Trung tâm
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13918" id="menu-item-13918">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-may-tinh">
+               Trung tâm Máy tính
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13917" id="menu-item-13917">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-doi-moi-sang-tao">
+               Trung tâm Đổi mới Sáng tạo
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-15176" id="menu-item-15176">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-navis">
+               Trung tâm NAVIS
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-15175" id="menu-item-15175">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-cyber-security">
+               Trung tâm Cyber Security
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-17059" id="menu-item-17059">
+              <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-nghien-cuu-quoc-te-ve-tri-tue-nhan-tao">
+               Trung tâm Nghiên cứu Quốc tế về Trí tuệ nhân tạo
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13586 has-dropdown" id="menu-item-13586">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/dao-tao">
+           Đào tạo
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15250" id="menu-item-15250">
+            <a href="https://soict.hust.edu.vn/dao-tao/gioi-thieu-chung">
+             Giới thiệu chung
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13587" id="menu-item-13587">
+            <a href="https://soict.hust.edu.vn/dao-tao/he-dai-hoc">
+             Hệ Đại học
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13588" id="menu-item-13588">
+            <a href="https://soict.hust.edu.vn/dao-tao/he-thac-sy">
+             Hệ Thạc sỹ
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13589" id="menu-item-13589">
+            <a href="https://soict.hust.edu.vn/dao-tao/dao-tao-tien-sy">
+             Hệ Tiến sỹ
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13859" id="menu-item-13859">
+            <a href="https://soict.hust.edu.vn/dao-tao/dao-tao-chung-chi">
+             Đào tạo Chứng chỉ
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13883 has-dropdown" id="menu-item-13883">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/nghien-cuu">
+           Nghiên cứu
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13884" id="menu-item-13884">
+            <a href="https://soict.hust.edu.vn/nghien-cuu">
+             Giới thiệu chung
+            </a>
+           </li>
+           <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13881 nav-dropdown-col" id="menu-item-13881">
+            <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem">
+             Các Phòng Thí nghiệm
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15292" id="menu-item-15292">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-he-thong-may-tinh-cslab.html">
+               PTN Hệ thống Máy tính – CSLab
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15293" id="menu-item-15293">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-cong-nghe-mang-va-truyen-thong-nct-lab.html">
+               PTN Công nghệ mạng và Truyền thông – NCT Lab
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15294" id="menu-item-15294">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-mo-hinh-hoa-mo-phong-va-toi-ui-hoa-msolab.html">
+               PTN Mô hình hóa, Mô phỏng và Tối ưu hóa – MSOLab
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15295" id="menu-item-15295">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-khoa-hoc-du-lieu.html">
+               PTN Khoa học Dữ liệu – DSLab
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15296" id="menu-item-15296">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-ky-thuat-phan-mem-va-tinh-toan-phan-tan-sedic-lab.html">
+               PTN Kỹ thuật Phần mềm và Tính toán Phân tán – SEDIC Lab
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13880 nav-dropdown-col" id="menu-item-13880">
+            <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an">
+             Các Đề tài – Dự án
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15702" id="menu-item-15702">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-cap-quoc-gia.html">
+               Đề tài cấp Quốc gia
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15703" id="menu-item-15703">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/nhiem-vu-nghien-cuu-co-ban-quy-nafosted.html">
+               Nhiệm vụ nghiên cứu cơ bản Quỹ Nafosted
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15701" id="menu-item-15701">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-hop-tac-nghien-cuu-theo-nghi-dinh-thu.html">
+               Đề tài hợp tác nghiên cứu theo Nghị định thư
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15700" id="menu-item-15700">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-cap-bo.html">
+               Đề tài cấp Bộ
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15699" id="menu-item-15699">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-hop-tac-quoc-te.html">
+               Đề tài Hợp tác quốc tế
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13882 nav-dropdown-col" id="menu-item-13882">
+            <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc">
+             Công bố Khoa học
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17476" id="menu-item-17476">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/2020.html">
+               Năm 2020
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15265" id="menu-item-15265">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2019.html">
+               Năm 2019
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15266" id="menu-item-15266">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2018.html">
+               Năm 2018
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15267" id="menu-item-15267">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2017.html">
+               Năm 2017
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15268" id="menu-item-15268">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2016.html">
+               Năm 2016
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15256" id="menu-item-15256">
+              <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2015.html">
+               Năm 2015
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15541" id="menu-item-15541">
+            <a href="https://soict.hust.edu.vn/can-bo">
+             Tìm chuyên gia?
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13910 has-dropdown" id="menu-item-13910">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/tuyen-sinh">
+           Tuyển sinh
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13913" id="menu-item-13913">
+            <a href="https://soict.hust.edu.vn/tuyen-sinh/kien-tao-tuong-lai-voi-soict.html">
+             Kiến tạo Tương lai với SoICT
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16187" id="menu-item-16187">
+            <a href="https://soict.hust.edu.vn/tuyen-sinh/tuyen-sinh-2021.html">
+             Tuyển sinh 2021!
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13912" id="menu-item-13912">
+            <a href="https://soict.hust.edu.vn/tuyen-sinh/diem-chuan-tham-khao.html">
+             Điểm chuẩn tham khảo
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13911" id="menu-item-13911">
+            <a href="https://soict.hust.edu.vn/tuyen-sinh/tuyen-sinh-dao-tao-ngan-han.html">
+             Tuyển sinh Đào tạo Ngắn hạn
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16186" id="menu-item-16186">
+            <a href="https://soict.hust.edu.vn/tuyen-sinh/hoi-dap-ve-tuyen-sinh.html">
+             Hỏi đáp về tuyển sinh
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16858 has-dropdown" id="menu-item-16858">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/sinh-vien">
+           Sinh viên
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16859" id="menu-item-16859">
+            <a href="https://soict.hust.edu.vn/sinh-vien/bieu-mau/bieu-mau-va-quy-dinh-danh-cho-sinh-vien.html">
+             Biểu mẫu và quy định dành cho sinh viên
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16929" id="menu-item-16929">
+            <a href="https://soict.hust.edu.vn/tin-tuc/thong-bao/lich-truc-co-van-hoc-tap-vien-cntttt.html">
+             Cố vấn học tập
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17461" id="menu-item-17461">
+            <a href="https://soict.hust.edu.vn/sinh-vien/hoat-dong-sinh-vien-nghien-cuu-khoa-hoc">
+             Hoạt động sinh viên nghiên cứu khoa học
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13892 has-dropdown" id="menu-item-13892">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/hop-tac-doi-ngoai">
+           Hợp tác Đối ngoại
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13893" id="menu-item-13893">
+            <a href="https://soict.hust.edu.vn/hop-tac-doi-ngoai">
+             Giới thiệu chung
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13896" id="menu-item-13896">
+            <a href="https://soict.hust.edu.vn/hop-tac-doi-ngoai/hop-tac-quoc-te.html">
+             Hợp tác với Khối Hàn lâm
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13894" id="menu-item-13894">
+            <a href="https://soict.hust.edu.vn/hop-tac-doi-ngoai/hop-tac-doanh-nghiep.html">
+             Hợp tác với Khối Doanh nghiệp
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13561 has-dropdown" id="menu-item-13561">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/sinh-vien/cuu-sinh-vien">
+           Cựu Sinh viên
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13900" id="menu-item-13900">
+            <a href="https://soict.hust.edu.vn/sinh-vien/cuu-sinh-vien">
+             Giới thiệu chung
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14465" id="menu-item-14465">
+            <a href="/sinh-vien/tam-guong-cuu-sinh-vien.html">
+             Tấm gương Cựu Sinh viên
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="__menu-right menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13564 has-dropdown" id="menu-item-13564">
+          <a class="nav-top-link" href="#">
+           Tin tức–Sự kiện
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13863 nav-dropdown-col" id="menu-item-13863">
+            <a href="https://soict.hust.edu.vn/tin-tuc">
+             Tin tức
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13864" id="menu-item-13864">
+              <a href="https://soict.hust.edu.vn/tin-tuc/thong-bao">
+               Thông báo
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13865" id="menu-item-13865">
+              <a href="https://soict.hust.edu.vn/tin-tuc/tin-bai">
+               Tin bài
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15546" id="menu-item-15546">
+              <a href="https://soict.hust.edu.vn/soict-talks">
+               SoICT Talks
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13563 nav-dropdown-col" id="menu-item-13563">
+            <a href="/su-kien">
+             Sự kiện
+            </a>
+            <ul class="nav-column nav-dropdown-simple">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13861" id="menu-item-13861">
+              <a href="/su-kien?sort=upcoming">
+               Sự kiện sắp diễn ra
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13862" id="menu-item-13862">
+              <a href="/su-kien?sort=took-place">
+               Sự kiện đã diễn ra
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15168 has-dropdown" id="menu-item-15168">
+          <a class="nav-top-link" href="https://soict.hust.edu.vn/tuyen-dung">
+           Tuyển dụng
+           <i class="icon-angle-down">
+           </i>
+          </a>
+          <ul class="nav-dropdown nav-dropdown-simple">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15170" id="menu-item-15170">
+            <a href="https://soict.hust.edu.vn/tuyen-dung/viec-lam-tai-soict">
+             Việc làm tại SoICT
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15169" id="menu-item-15169">
+            <a href="https://soict.hust.edu.vn/tuyen-dung/viec-lam-cho-sinh-vien">
+             Việc làm cho Sinh viên
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+       <!-- flex-col -->
+       <div class="flex-col hide-for-medium flex-right flex-grow">
+        <ul class="nav header-nav header-bottom-nav nav-right nav-size-medium nav-spacing-medium">
+        </ul>
+       </div>
+       <!-- flex-col -->
+      </div>
+      <!-- .flex-row -->
+     </div>
+     <!-- .header-bottom -->
+     <div class="header-bg-container fill">
+      <div class="header-bg-image fill">
+      </div>
+      <div class="header-bg-color fill">
+      </div>
+     </div>
+     <!-- .header-bg-container -->
+    </div>
+    <!-- header-wrapper-->
+   </header>
+   <main class="" id="main">
+    <div class="page-title shop-page-title product-page-title breadcrumbs">
+     <div class="page-title-inner flex-row medium-flex-wrap container">
+      <div class="flex-col flex-grow medium-text-center">
+       <div class="is-small">
+        <span>
+         <span>
+          <a href="https://soict.hust.edu.vn/">
+           Trang chủ
+          </a>
+          »
+          <span>
+           <a href="https://soict.hust.edu.vn/can-bo">
+            Cán bộ
+           </a>
+           »
+           <span aria-current="page" class="breadcrumb_last">
+            TS. Phạm Đăng Hải
+           </span>
+          </span>
+         </span>
+        </span>
+       </div>
+      </div>
+      <!-- .flex-left -->
+     </div>
+     <!-- flex-row -->
+    </div>
+    <div class="officer-wrapper officer-single page-wrapper" id="content">
+     <div class="row">
+      <div class="large-12 col">
+       <article class="post-6665 can-bo type-can-bo status-publish has-post-thumbnail hentry" id="post-6665">
+        <div class="article-inner">
+         <div class="entry-content single-page">
+          <div class="row" id="row-489261715">
+           <div class="col medium-5 small-12 large-5">
+            <div class="col-inner">
+             <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1624255920">
+              <div class="img-inner image-cover dark" style="padding-top:150%;">
+               <img alt="" class="attachment-original size-original" height="674" sizes="(max-width: 450px) 100vw, 450px" src="https://soict.hust.edu.vn/content/uploads/2017/03/000399.jpg" srcset="https://soict.hust.edu.vn/content/uploads/2017/03/000399.jpg 450w, https://soict.hust.edu.vn/content/uploads/2017/03/000399-400x599.jpg 400w, https://soict.hust.edu.vn/content/uploads/2017/03/000399-1024x1534.jpg 1024w, https://soict.hust.edu.vn/content/uploads/2017/03/000399-768x1150.jpg 768w, https://soict.hust.edu.vn/content/uploads/2017/03/000399-167x250.jpg 167w, https://soict.hust.edu.vn/content/uploads/2017/03/000399-200x300.jpg 200w, https://soict.hust.edu.vn/content/uploads/2017/03/000399-684x1024.jpg 684w" width="450"/>
+              </div>
+              <style scope="scope">
+               #image_1624255920 {
+  width: 100%;
+}
+              </style>
+             </div>
+             <p class="lead">
+              <span style="font-size: 130%;">
+               <strong>
+                Phạm Đăng Hải
+               </strong>
+              </span>
+             </p>
+             <p>
+              <strong>
+               Trưởng bộ môn, Bộ môn Khoa học Máy tính
+               <br/>
+               Giảng viên chính,
+              </strong>
+              <strong>
+               Bộ môn Khoa học Máy tính
+              </strong>
+             </p>
+             <p>
+              Tiến sĩ (Khoa học máy tính, Trường thực hành công nghệ cao, CH Pháp, 2010)
+              <br/>
+              Thạc sĩ (Công nghệ thông tin, Viện tin học Pháp ngữ, 1997)
+              <br/>
+              Kỹ sư (Tin học, Đại học Bách Khoa Hà Nội, 1995)
+             </p>
+             <p>
+              Email: haipd@soict.hust.edu.vn
+             </p>
+             <div class="container section-title-container">
+              <h3 class="section-title section-title-normal">
+               <b>
+               </b>
+               <span class="section-title-main">
+                Lĩnh vực nghiên cứu
+               </span>
+               <b>
+               </b>
+              </h3>
+             </div>
+             <!-- .section-title -->
+             <ul>
+              <li>
+               Tính toán hiệu năng cao
+              </li>
+              <li>
+               Mô phỏng song song và phân tán
+              </li>
+              <li>
+               Hệ điều hành nhúng
+              </li>
+             </ul>
+             <div class="container section-title-container">
+              <h3 class="section-title section-title-normal">
+               <b>
+               </b>
+               <span class="section-title-main">
+                Các nghiên cứu quan tâm
+               </span>
+               <b>
+               </b>
+              </h3>
+             </div>
+             <!-- .section-title -->
+             <ul>
+              <li>
+               Tính toán hiệu năng cao
+              </li>
+              <li>
+               Mô phỏng song song và phân tán
+              </li>
+              <li>
+               Hệ điều hành nhúng
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="col medium-7 small-12 large-7">
+            <div class="col-inner">
+             <div class="container section-title-container">
+              <h3 class="section-title section-title-normal">
+               <b>
+               </b>
+               <span class="section-title-main">
+                Giới thiệu
+               </span>
+               <b>
+               </b>
+              </h3>
+             </div>
+             <!-- .section-title -->
+             <p>
+              Ông Phạm Đăng Hải nhận học vị Tiến sĩ Khoa học Máy tinh năm 2010 của trường Thực hành Công nghệ cao – Cộng hòa Pháp. Hiện tại Ông Phạm Đăng Hải là Giảng viên chính tại bộ môn Khoa học Máy tính, Viện Công nghệ thông tin và truyền thông, trường Đại học Bách khoa Hà Nội. Các hướng nghiên cứu quan tâm hiện tại bao gồm: tính toán hiệu năng cao, mô phỏng song song và phân tán, hệ điều hành nhúng.
+             </p>
+             <div class="container section-title-container">
+              <h3 class="section-title section-title-normal">
+               <b>
+               </b>
+               <span class="section-title-main">
+                Các công trình khoa học tiêu biểu
+               </span>
+               <b>
+               </b>
+              </h3>
+             </div>
+             <!-- .section-title -->
+             <ul>
+              <li>
+               PHAM Dang Hai, Predicting the Performance of Multi-Agent Based Simulation with Ethernet Switched Clusters,
+               <em>
+                in the proceedings of The International Conference on High Performance Computing &amp; Simulation (HPCS 2009)
+               </em>
+               , pages 115-121, Leipzig, Germany, 21-24, June 2009. IEEE Germany, ISBN: 978-3-8325-2224-7.
+              </li>
+              <li>
+               PHAM Dang Hai, Reliable multicast protocol in distributed simulation for multi-agent systems.
+               <em>
+                in the proceedings of The 2009 IEEE-RIVF International Conference on Computing and Telecommunication Technologies (IEEE-RIVF 09),
+               </em>
+               pages 118-25, Da nang, Viet Nam, 13-17, July 2009. IEEE Vietnam. ISBN 13: 978-1-4244-4567-7.
+              </li>
+             </ul>
+             <div class="container section-title-container">
+              <h3 class="section-title section-title-normal">
+               <b>
+               </b>
+               <span class="section-title-main">
+                Giảng dạy
+               </span>
+               <b>
+               </b>
+              </h3>
+             </div>
+             <!-- .section-title -->
+             <ul>
+              <li>
+               IT1110: Tin học đại cương
+              </li>
+              <li>
+               IT3070: Hệ điều hành
+              </li>
+              <li>
+               IT4074: Lý thuyết Ngôn ngữ và Phương pháp dịch
+              </li>
+              <li>
+               IT4182: Thực hành Xây dựng chương trình dịch
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+          <p>
+          </p>
+          <div class="blog-share text-center">
+           <div class="is-divider medium">
+           </div>
+           <div class="social-icons share-icons share-row relative">
+            <a class="icon button circle is-outline tooltip whatsapp show-for-medium" data-action="share/whatsapp/share" href="whatsapp://send?text=TS.%20Ph%E1%BA%A1m%20%C4%90%C4%83ng%20H%E1%BA%A3i - https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" title="Share on WhatsApp">
+             <i class="icon-phone">
+             </i>
+            </a>
+            <a class="icon button circle is-outline tooltip facebook" data-label="Facebook" href="//www.facebook.com/sharer.php?u=https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Share on Facebook">
+             <i class="icon-facebook">
+             </i>
+            </a>
+            <a class="icon button circle is-outline tooltip twitter" href="//twitter.com/share?url=https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Share on Twitter">
+             <i class="icon-twitter">
+             </i>
+            </a>
+            <a class="icon button circle is-outline tooltip email" href="mailto:enteryour@addresshere.com?subject=TS.%20Ph%E1%BA%A1m%20%C4%90%C4%83ng%20H%E1%BA%A3i&amp;body=Check%20this%20out:%20https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" rel="nofollow" title="Email to a Friend">
+             <i class="icon-envelop">
+             </i>
+            </a>
+            <a class="icon button circle is-outline tooltip pinterest" href="//pinterest.com/pin/create/button/?url=https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html&amp;media=https://soict.hust.edu.vn/content/uploads/2017/03/000399-1024x1534.jpg&amp;description=TS.%20Ph%E1%BA%A1m%20%C4%90%C4%83ng%20H%E1%BA%A3i" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Pin on Pinterest">
+             <i class="icon-pinterest">
+             </i>
+            </a>
+            <a class="icon button circle is-outline tooltip google-plus" href="//plus.google.com/share?url=https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Share on Google+">
+             <i class="icon-google-plus">
+             </i>
+            </a>
+            <a class="icon button circle is-outline tooltip linkedin" href="//www.linkedin.com/shareArticle?mini=true&amp;url=https://soict.hust.edu.vn/can-bo/ts-pham-dang-hai.html&amp;title=TS.%20Ph%E1%BA%A1m%20%C4%90%C4%83ng%20H%E1%BA%A3i" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Share on LinkedIn">
+             <i class="icon-linkedin">
+             </i>
+            </a>
+           </div>
+          </div>
+         </div>
+         <!-- .entry-content2 -->
+        </div>
+        <!-- .article-inner -->
+       </article>
+       <!-- #-6665 -->
+      </div>
+     </div>
+    </div>
+   </main>
+   <!-- #main -->
+   <footer class="footer-wrapper" id="footer">
+    <!-- FOOTER 1 -->
+    <!-- FOOTER 2 -->
+    <div class="footer-widgets footer footer-2 dark">
+     <div class="row dark large-columns-4 mb-0">
+      <div class="col pb-0 widget widget_nav_menu" id="nav_menu-3">
+       <span class="widget-title">
+        Bộ môn – Trung tâm
+       </span>
+       <div class="is-divider small">
+       </div>
+       <div class="menu-menu-trai-bo-mon-trung-tam-container">
+        <ul class="menu" id="menu-menu-trai-bo-mon-trung-tam">
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14352" id="menu-item-14352">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/cong-nghe-phan-mem">
+           Bộ môn Công nghệ phần mềm
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14353" id="menu-item-14353">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/he-thong-thong-tin">
+           Bộ môn Hệ thống thông tin
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14354" id="menu-item-14354">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/khoa-hoc-may-tinh">
+           Bộ môn Khoa học máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14355" id="menu-item-14355">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/ky-thuat-may-tinh">
+           Bộ môn Kỹ thuật máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14358" id="menu-item-14358">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/truyen-thong-va-mang-may-tinh">
+           Bộ môn Truyền thông và Mạng máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14357" id="menu-item-14357">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-may-tinh">
+           Trung tâm Máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-14356" id="menu-item-14356">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-doi-moi-sang-tao">
+           Trung tâm Đổi mới Sáng tạo
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-17061" id="menu-item-17061">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-navis">
+           Trung tâm NAVIS
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-17062" id="menu-item-17062">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-cyber-security">
+           Trung tâm Cyber Security
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-17060" id="menu-item-17060">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-nghien-cuu-quoc-te-ve-tri-tue-nhan-tao">
+           Trung tâm Nghiên cứu Quốc tế về Trí tuệ nhân tạo
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="col pb-0 widget widget_nav_menu" id="nav_menu-4">
+       <span class="widget-title">
+        Chương trình đào tạo
+       </span>
+       <div class="is-divider small">
+       </div>
+       <div class="menu-menu-trai-chuong-trinh-dao-tao-container">
+        <ul class="menu" id="menu-menu-trai-chuong-trinh-dao-tao">
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13776" id="menu-item-13776">
+          <a href="/dao-tao/chuong-trinh-ky-su-cong-nghe-thong-tin-viet-nam-nhat-ban-hedspi.html">
+           Chương trình Việt Nhật (HEDSPI)
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13777" id="menu-item-13777">
+          <a href="/dao-tao/chuong-trinh-ky-su-cong-nghe-thong-tin-toan-cau-global-ict.html">
+           Chương trình Global ICT
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13778" id="menu-item-13778">
+          <a href="/dao-tao/chuong-trinh-cu-nhan-khoa-hoc-du-lieu-va-tri-tue-nhan-tao-dsai-it-e10.html">
+           Chương trình Khoa học dữ liệu và trí tuệ nhân tạo
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13779" id="menu-item-13779">
+          <a href="/tin-tuc/tin-bai/dau-tu-cho-nckh-va-dao-tao-trinh-do-cao-trong-truong-dai-hoc-diem-dot-pha-trong-qua-trinh-chuyen-doi-so-tai-viet-nam.html">
+           Chương trình Thạc sỹ Chuyển đổi số
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13780" id="menu-item-13780">
+          <a href="/dao-tao/he-dai-hoc">
+           Các chương trình đại học
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13781" id="menu-item-13781">
+          <a href="/dao-tao/he-thac-sy">
+           Các chương trình thạc sỹ
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13782" id="menu-item-13782">
+          <a href="/dao-tao/dao-tao-tien-sy">
+           Các chương trình tiến sỹ
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13783" id="menu-item-13783">
+          <a href="/tuyen-sinh/tuyen-sinh-dao-tao-ngan-han.html">
+           Các chương trình đào tạo ngắn hạn
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="col pb-0 widget widget_nav_menu" id="nav_menu-5">
+       <span class="widget-title">
+        Hệ thống và Tài nguyên
+       </span>
+       <div class="is-divider small">
+       </div>
+       <div class="menu-menu-footer-cac-he-thong-va-tai-nguyen-container">
+        <ul class="menu" id="menu-menu-footer-cac-he-thong-va-tai-nguyen">
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28" id="menu-item-28">
+          <a href="http://qldt.hust.edu.vn" target="_blank">
+           Hệ thống Quản lý Đào tạo
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29" id="menu-item-29">
+          <a href="https://cam.soict.ai" target="_blank">
+           Hệ thống Quản lý Hợp tác Doanh nghiệp
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30" id="menu-item-30">
+          <a href="https://soict.hust.edu.vn/tin-tuc/cac-bieu-mau-danh-cho-sinh-vien-cua-vien.html">
+           Các mẫu biểu dành cho sinh viên Viện
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="col pb-0 widget widget_text" id="text-2">
+       <div class="textwidget">
+        <p>
+         <img alt="" class="alignnone wp-image-26" height="45" src="/content/uploads/2019/04/soict-light-logo-300x66.png" width="204"/>
+        </p>
+        <p class="mb-0">
+         <i class="icon-phone">
+         </i>
+         (+84) 24 3869 2463
+        </p>
+        <p class="mb-0">
+         <i class="icon-envelop">
+         </i>
+         vp@soict.hust.edu.vn
+        </p>
+        <p class="mb-0">
+         <i class="fa fa-map-marker">
+         </i>
+         P. 505 – Nhà B1 – Đại học Bách khoa Hà nội
+        </p>
+        <p class="mb-0">
+         <i class="fa fa-map-marker">
+         </i>
+         Số 1 Đại Cồ Việt – Hai Bà Trưng – Hà Nội
+        </p>
+        <div class="social-icons follow-icons">
+         <a class="icon primary button circle facebook tooltip" data-label="Facebook" href="https://www.facebook.com/SoictOfficially/" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Facebook">
+          <i class="icon-facebook">
+          </i>
+         </a>
+         <a class="icon primary button circle youtube tooltip" data-label="YouTube" href="https://www.youtube.com/channel/UCAXzF2QEKCwhEcTjJSAu1Yw/feed" rel="noopener noreferrer nofollow" target="_blank" title="Follow on YouTube">
+          <i class="icon-youtube">
+          </i>
+         </a>
+        </div>
+        <div class="social-icons follow-icons">
+         <a class="icon primary button circle instagram tooltip tooltipstered" href="https://goo.gl/maps/NBN3kVV7DauSgxUSA">
+          <br/>
+          <i class="icon-map-pin-fill">
+          </i>
+          <br/>
+         </a>
+        </div>
+        <p>
+        </p>
+        <p>
+        </p>
+       </div>
+      </div>
+     </div>
+     <!-- end row -->
+    </div>
+    <!-- end footer 2 -->
+    <div class="absolute-footer dark medium-text-center small-text-center">
+     <div class="container clearfix">
+      <div class="footer-primary pull-left">
+       <div class="copyright-footer">
+        Copyright ©
+        <strong>
+         Viện Công nghệ Thông tin và Truyền thông
+        </strong>
+       </div>
+      </div>
+      <!-- .left -->
+     </div>
+     <!-- .container -->
+    </div>
+    <!-- .absolute-footer -->
+    <a class="back-to-top button icon invert plain fixed bottom z-1 is-outline circle" href="#top" id="top-link">
+     <i class="icon-angle-up">
+     </i>
+    </a>
+   </footer>
+   <!-- .footer-wrapper -->
+  </div>
+  <!-- #wrapper -->
+  <!-- Mobile Sidebar -->
+  <div class="mobile-sidebar no-scrollbar mfp-hide" id="main-menu">
+   <div class="sidebar-menu no-scrollbar">
+    <ul class="nav nav-sidebar nav-vertical nav-uppercase">
+     <li class="header-search-form search-form html relative has-icon">
+      <div class="header-search-form-wrapper">
+       <div class="searchform-wrapper ux-search-box relative form-flat is-normal">
+        <form action="https://soict.hust.edu.vn/" class="searchform" method="get" role="search">
+         <div class="flex-row relative">
+          <div class="flex-col flex-grow">
+           <input class="search-field mb-0" id="s" name="s" placeholder="Tìm kiếm…" type="search" value=""/>
+          </div>
+          <!-- .flex-col -->
+          <div class="flex-col">
+           <button class="ux-search-submit submit-button secondary button icon mb-0" type="submit">
+            <i class="icon-search">
+            </i>
+           </button>
+          </div>
+          <!-- .flex-col -->
+         </div>
+         <!-- .flex-row -->
+         <div class="live-search-results text-left z-top">
+         </div>
+        </form>
+       </div>
+      </div>
+     </li>
+     <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13897">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/gioi-thieu">
+       Giới thiệu
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13898">
+        <a href="https://soict.hust.edu.vn/gioi-thieu">
+         Thông tin chung
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13849">
+        <a href="https://soict.hust.edu.vn/gioi-thieu/co-cau-to-chuc.html">
+         Cơ cấu Tổ chức
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15075">
+        <a href="https://soict.hust.edu.vn/gioi-thieu/dang-uy-vien.html">
+         Đảng ủy – Hội đồng Viện
+        </a>
+       </li>
+       <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15550">
+        <a href="https://soict.hust.edu.vn/gioi-thieu/ban-lanh-dao-vien">
+         Ban Lãnh đạo Viện
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15243">
+          <a href="https://soict.hust.edu.vn/gioi-thieu/ban-lanh-dao-vien-hien-tai.html">
+           Ban Lãnh đạo Viện hiện tại
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15244">
+          <a href="https://soict.hust.edu.vn/gioi-thieu/ban-lanh-dao-vien-qua-cac-thoi-ky.html">
+           Ban Lãnh đạo Viện qua các thời kỳ
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15078">
+        <a href="https://soict.hust.edu.vn/gioi-thieu/cong-doan-vien.html">
+         Các Tổ chức Đoàn thể
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15073">
+        <a href="https://soict.hust.edu.vn/gioi-thieu/van-phong-vien.html">
+         Văn phòng Viện
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15457">
+        <a href="/can-bo">
+         Danh sách Cán bộ
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13596">
+      <a class="nav-top-link" href="#">
+       Bộ môn–Trung tâm
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13919">
+        <a href="#">
+         Bộ môn
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13921">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/cong-nghe-phan-mem">
+           Công nghệ Phần mềm
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13923">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/he-thong-thong-tin">
+           Hệ thống Thông tin
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13924">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/khoa-hoc-may-tinh">
+           Khoa học Máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13925">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/ky-thuat-may-tinh">
+           Kỹ thuật Máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13926">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/truyen-thong-va-mang-may-tinh">
+           Truyền thông và Mạng Máy tính
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13920">
+        <a href="#">
+         Trung tâm
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13918">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-may-tinh">
+           Trung tâm Máy tính
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-13917">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-doi-moi-sang-tao">
+           Trung tâm Đổi mới Sáng tạo
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-15176">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-navis">
+           Trung tâm NAVIS
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-15175">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-cyber-security">
+           Trung tâm Cyber Security
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-bo-mon-trung-tam menu-item-17059">
+          <a href="https://soict.hust.edu.vn/bo-mon/bo-mon-trung-tam/trung-tam-nghien-cuu-quoc-te-ve-tri-tue-nhan-tao">
+           Trung tâm Nghiên cứu Quốc tế về Trí tuệ nhân tạo
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13586">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/dao-tao">
+       Đào tạo
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15250">
+        <a href="https://soict.hust.edu.vn/dao-tao/gioi-thieu-chung">
+         Giới thiệu chung
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13587">
+        <a href="https://soict.hust.edu.vn/dao-tao/he-dai-hoc">
+         Hệ Đại học
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13588">
+        <a href="https://soict.hust.edu.vn/dao-tao/he-thac-sy">
+         Hệ Thạc sỹ
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13589">
+        <a href="https://soict.hust.edu.vn/dao-tao/dao-tao-tien-sy">
+         Hệ Tiến sỹ
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13859">
+        <a href="https://soict.hust.edu.vn/dao-tao/dao-tao-chung-chi">
+         Đào tạo Chứng chỉ
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13883">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/nghien-cuu">
+       Nghiên cứu
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13884">
+        <a href="https://soict.hust.edu.vn/nghien-cuu">
+         Giới thiệu chung
+        </a>
+       </li>
+       <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13881">
+        <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem">
+         Các Phòng Thí nghiệm
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15292">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-he-thong-may-tinh-cslab.html">
+           PTN Hệ thống Máy tính – CSLab
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15293">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-cong-nghe-mang-va-truyen-thong-nct-lab.html">
+           PTN Công nghệ mạng và Truyền thông – NCT Lab
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15294">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-mo-hinh-hoa-mo-phong-va-toi-ui-hoa-msolab.html">
+           PTN Mô hình hóa, Mô phỏng và Tối ưu hóa – MSOLab
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15295">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-khoa-hoc-du-lieu.html">
+           PTN Khoa học Dữ liệu – DSLab
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15296">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-phong-thi-nghiem/ptn-ky-thuat-phan-mem-va-tinh-toan-phan-tan-sedic-lab.html">
+           PTN Kỹ thuật Phần mềm và Tính toán Phân tán – SEDIC Lab
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13880">
+        <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an">
+         Các Đề tài – Dự án
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15702">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-cap-quoc-gia.html">
+           Đề tài cấp Quốc gia
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15703">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/nhiem-vu-nghien-cuu-co-ban-quy-nafosted.html">
+           Nhiệm vụ nghiên cứu cơ bản Quỹ Nafosted
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15701">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-hop-tac-nghien-cuu-theo-nghi-dinh-thu.html">
+           Đề tài hợp tác nghiên cứu theo Nghị định thư
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15700">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-cap-bo.html">
+           Đề tài cấp Bộ
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15699">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cac-de-tai-du-an/de-tai-hop-tac-quoc-te.html">
+           Đề tài Hợp tác quốc tế
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13882">
+        <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc">
+         Công bố Khoa học
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17476">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/2020.html">
+           Năm 2020
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15265">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2019.html">
+           Năm 2019
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15266">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2018.html">
+           Năm 2018
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15267">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2017.html">
+           Năm 2017
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15268">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2016.html">
+           Năm 2016
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15256">
+          <a href="https://soict.hust.edu.vn/nghien-cuu/cong-bo-khoa-hoc/nam-2015.html">
+           Năm 2015
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15541">
+        <a href="https://soict.hust.edu.vn/can-bo">
+         Tìm chuyên gia?
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13910">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/tuyen-sinh">
+       Tuyển sinh
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13913">
+        <a href="https://soict.hust.edu.vn/tuyen-sinh/kien-tao-tuong-lai-voi-soict.html">
+         Kiến tạo Tương lai với SoICT
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16187">
+        <a href="https://soict.hust.edu.vn/tuyen-sinh/tuyen-sinh-2021.html">
+         Tuyển sinh 2021!
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13912">
+        <a href="https://soict.hust.edu.vn/tuyen-sinh/diem-chuan-tham-khao.html">
+         Điểm chuẩn tham khảo
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13911">
+        <a href="https://soict.hust.edu.vn/tuyen-sinh/tuyen-sinh-dao-tao-ngan-han.html">
+         Tuyển sinh Đào tạo Ngắn hạn
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16186">
+        <a href="https://soict.hust.edu.vn/tuyen-sinh/hoi-dap-ve-tuyen-sinh.html">
+         Hỏi đáp về tuyển sinh
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16858">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/sinh-vien">
+       Sinh viên
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16859">
+        <a href="https://soict.hust.edu.vn/sinh-vien/bieu-mau/bieu-mau-va-quy-dinh-danh-cho-sinh-vien.html">
+         Biểu mẫu và quy định dành cho sinh viên
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16929">
+        <a href="https://soict.hust.edu.vn/tin-tuc/thong-bao/lich-truc-co-van-hoc-tap-vien-cntttt.html">
+         Cố vấn học tập
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17461">
+        <a href="https://soict.hust.edu.vn/sinh-vien/hoat-dong-sinh-vien-nghien-cuu-khoa-hoc">
+         Hoạt động sinh viên nghiên cứu khoa học
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13892">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/hop-tac-doi-ngoai">
+       Hợp tác Đối ngoại
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13893">
+        <a href="https://soict.hust.edu.vn/hop-tac-doi-ngoai">
+         Giới thiệu chung
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13896">
+        <a href="https://soict.hust.edu.vn/hop-tac-doi-ngoai/hop-tac-quoc-te.html">
+         Hợp tác với Khối Hàn lâm
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13894">
+        <a href="https://soict.hust.edu.vn/hop-tac-doi-ngoai/hop-tac-doanh-nghiep.html">
+         Hợp tác với Khối Doanh nghiệp
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="drop-simple menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13561">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/sinh-vien/cuu-sinh-vien">
+       Cựu Sinh viên
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13900">
+        <a href="https://soict.hust.edu.vn/sinh-vien/cuu-sinh-vien">
+         Giới thiệu chung
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14465">
+        <a href="/sinh-vien/tam-guong-cuu-sinh-vien.html">
+         Tấm gương Cựu Sinh viên
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="__menu-right menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13564">
+      <a class="nav-top-link" href="#">
+       Tin tức–Sự kiện
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13863">
+        <a href="https://soict.hust.edu.vn/tin-tuc">
+         Tin tức
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13864">
+          <a href="https://soict.hust.edu.vn/tin-tuc/thong-bao">
+           Thông báo
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13865">
+          <a href="https://soict.hust.edu.vn/tin-tuc/tin-bai">
+           Tin bài
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15546">
+          <a href="https://soict.hust.edu.vn/soict-talks">
+           SoICT Talks
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13563">
+        <a href="/su-kien">
+         Sự kiện
+        </a>
+        <ul class="nav-sidebar-ul">
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13861">
+          <a href="/su-kien?sort=upcoming">
+           Sự kiện sắp diễn ra
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13862">
+          <a href="/su-kien?sort=took-place">
+           Sự kiện đã diễn ra
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15168">
+      <a class="nav-top-link" href="https://soict.hust.edu.vn/tuyen-dung">
+       Tuyển dụng
+      </a>
+      <ul class="children">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15170">
+        <a href="https://soict.hust.edu.vn/tuyen-dung/viec-lam-tai-soict">
+         Việc làm tại SoICT
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15169">
+        <a href="https://soict.hust.edu.vn/tuyen-dung/viec-lam-cho-sinh-vien">
+         Việc làm cho Sinh viên
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="html header-social-icons ml-0">
+      <div class="social-icons follow-icons">
+       <a class="icon plain facebook tooltip" data-label="Facebook" href="http://url" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Facebook">
+        <i class="icon-facebook">
+        </i>
+       </a>
+       <a class="icon plain instagram tooltip" data-label="Instagram" href="http://url" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Instagram">
+        <i class="icon-instagram">
+        </i>
+       </a>
+       <a class="icon plain twitter tooltip" data-label="Twitter" href="http://url" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Twitter">
+        <i class="icon-twitter">
+        </i>
+       </a>
+       <a class="icon plain email tooltip" data-label="E-mail" href="mailto:your@email" rel="nofollow" title="Send us an email">
+        <i class="icon-envelop">
+        </i>
+       </a>
+      </div>
+     </li>
+    </ul>
+   </div>
+   <!-- inner -->
+  </div>
+  <!-- #mobile-menu -->
+  <script>
+   jQuery(document).ready(function () {
+		jQuery.post('https://soict.hust.edu.vn?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/soict.hust.edu.vn\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+  </script>
+  <script src="https://soict.hust.edu.vn/content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3" type="text/javascript">
+  </script>
+  <script src="https://soict.hust.edu.vn/libs/js/hoverIntent.min.js?ver=1.8.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"https:\/\/soict.hust.edu.vn\/acp\/admin-ajax.php","rtl":"","sticky_height":"70","user":{"can_edit_pages":false}};
+/* ]]> */
+  </script>
+  <script src="https://soict.hust.edu.vn/content/themes/core-theme/assets/js/flatsome.js?ver=3.8.3" type="text/javascript">
+  </script>
+  <script src="https://soict.hust.edu.vn/libs/js/wp-embed.min.js?ver=5.1.1" type="text/javascript">
+  </script>
+ </body>
+</html>
