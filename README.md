@@ -1,2 +1,2 @@
 # teacher-and-their-subjects
-# Trying to do ver 2 :'(
+I might update this file later, because I don't really need this file right now
